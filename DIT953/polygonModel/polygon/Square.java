@@ -7,7 +7,7 @@ import java.awt.*;
  */
 class Square extends Polygon {
     Square(int x, int y) {
-        super(x,y);
+        super(x, y);
     }
 
    @Override
